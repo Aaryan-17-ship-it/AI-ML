@@ -40,7 +40,7 @@ Matplotlib: Used for rendering the visual trend graphs.
 Scikit-Learn: Used to implement the LinearRegression model for AI-based price estimation.
 <br>
 <br>
-3. Runtime Environment
+4. Runtime Environment
 <br>
 Python Interpreter Executes the .py file and displays both the terminal interface and the graphical output.
 <br>
