@@ -6,7 +6,8 @@ Author: Aaryan Jha
 Project Title: House Price Predictor
 <br>
 <br>
-Overview of the Project
+❖ Overview of the Project:
+<br>
 <br>
 This application predicts property values based on square footage and the number of rooms. It uses a Linear Regression model trained on market standards to provide an estimated price when an exact match for the user's criteria is not found in the existing dataset.
 <br>
@@ -15,14 +16,15 @@ Features
 <br>
 Exact Match Search: Checks if the specific square footage and room count exist in the current database.
 <br>
-AI Prediction: Utilizes Scikit-Learn to predict prices for properties that fall outside the immediate dataset.
+❖ AI Prediction: Utilizes Scikit-Learn to predict prices for properties that fall outside the immediate dataset.
 <br>
-Data Visualization: Generates a scatter plot using Matplotlib to show how the user's selection compares to market trends.
+❖ Data Visualization: Generates a scatter plot using Matplotlib to show how the user's selection compares to market trends.
 <br>
-Error Handling: Validates user input to ensure only numeric values are processed.
+❖ Error Handling: Validates user input to ensure only numeric values are processed.
+❖ Error Handling: Validates user input to ensure only numeric values are processed.
 <br>
 <br>
-Technologies/Tools Used
+❖ Technologies/Tools Used:
 <br>
 1. Programming Language
 <br>
@@ -49,46 +51,62 @@ Steps to Install & Run the Project
 <br>
 Instructions for Testing
 <br>
-Open VS Code with the Python extension installed.
 <br>
-Ensure you have the required libraries installed by running:
-<br>
-pip install pandas matplotlib scikit-learn
-<br>
-Save the project file (e.g., house_price_predictor.py) on your computer.
-<br>
-To verify your installation, run:
-<br>
-python --version
-<br>
-How to Run the Program
-<br>
-Open Command Prompt / Terminal.
-<br>
-Navigate to the folder where the file is saved:
-<br>
-cd path/to/your/project
+❖ Open VS Code with the Python extension installed.
 <br>
 <br>
-<br>
-Run the application:
-<br>
-python house_price_predictor.py
+❖ Ensure you have the required libraries installed by running:
 <br>
 <br>
-Expected Program Flow
+❖ pip install pandas matplotlib scikit-learn
+<br>
+<br>
+❖ Save the project file (e.g., house_price_predictor.py) on your computer.
+<br>
+<br>
+❖ To verify your installation, run:
+<br>
+<br>
+❖ python --version
+<br>
+<br>
+❖ How to Run the Program
+<br>
+<br>
+❖ Open Command Prompt / Terminal.
+<br>
+<br>
+❖ Navigate to the folder where the file is saved:
+<br>
+<br>
+❖ cd path/to/your/project
+<br>
+<br>
+❖ Run the application:
+<br>
+<br>
+❖ python house_price_predictor.py
+<br>
+<br>
+❖ Expected Program Flow:
+<br>
 <br>
 System initializes the dataset and trains the Linear Regression model.
 <br>
+<br>
 User enters the Square Footage.
+<br>
 <br>
 User enters the Number of Rooms.
 <br>
 <br>
 Program displays:
 <br>
+<br>
 The exact price if a match is found.
 <br>
+<br>
 An "AI Estimated Market Price" if no exact match exists.
+<br>
 <br>
 A window opens showing a graph of Price vs. Square Footage with the user's selection highlighted.
