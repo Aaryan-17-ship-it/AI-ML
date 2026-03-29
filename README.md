@@ -88,7 +88,6 @@ Python Interpreter Executes the .py file and displays both the terminal interfac
 <br>
 ❖ Expected Program Flow:
 <br>
-<br>
 ➤ System initializes the dataset and trains the Linear Regression model.
 <br>
 ➤ User enters the Square Footage.
@@ -97,7 +96,7 @@ Python Interpreter Executes the .py file and displays both the terminal interfac
 <br>
 <br>
 <br>
-Program displays:
+❖ Program displays:
 <br>
 ➤ The exact price if a match is found.
 <br>
