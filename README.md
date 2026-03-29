@@ -8,7 +8,6 @@ Project Title: House Price Predictor
 <br>
 ❖ Overview of the Project:
 <br>
-<br>
 This application predicts property values based on square footage and the number of rooms. It uses a Linear Regression model trained on market standards to provide an estimated price when an exact match for the user's criteria is not found in the existing dataset.
 <br>
 <br>
