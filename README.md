@@ -27,6 +27,7 @@ This application predicts property values based on square footage and the number
 ❖ Technologies/Tools Used:
 <br>
 1. Programming Language
+<br>
 Python 3.x Used to implement the logic, handle user inputs, and manage data structures.
 <br>
 <br>
