@@ -93,3 +93,12 @@ This application predicts property values based on square footage and the number
 ➤  An "AI Estimated Market Price" if no exact match exists.
 <br>
 ➤ A window opens showing a graph of Price vs. Square Footage with the user's selection highlighted.
+<br>
+<br>
+<br>
+❖ Screenshots:
+<img width="814" height="881" alt="image" src="https://github.com/user-attachments/assets/bcad2456-3308-4bca-bac2-8c3f947d28a6" />
+<br>
+<img width="1918" height="318" alt="image" src="https://github.com/user-attachments/assets/7480b4df-8c59-405a-8757-138412ff674d" />
+<br>
+<img width="1495" height="848" alt="image" src="https://github.com/user-attachments/assets/55f902a1-451c-4c4e-a14f-0728bb684d47" />
