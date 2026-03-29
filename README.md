@@ -52,38 +52,28 @@ Python Interpreter Executes the .py file and displays both the terminal interfac
 <br>
 ➤ Open VS Code with the Python extension installed.
 <br>
-<br>
 ➤ Ensure you have the required libraries installed by running:
-<br>
 <br>
 ➤ pip install pandas matplotlib scikit-learn
 <br>
-<br>
 ➤ Save the project file (e.g., house_price_predictor.py) on your computer.
-<br>
 <br>
 ➤ To verify your installation, run:
 <br>
-<br>
 ➤ python --version
-<br>
 <br>
 ➤ How to Run the Program
 <br>
-<br>
-❖ Open Command Prompt / Terminal.
-<br>
+➤ Open Command Prompt / Terminal.
 <br>
 ➤ Navigate to the folder where the file is saved:
 <br>
-<br>
 ➤ cd path/to/your/project
-<br>
 <br>
 ➤ Run the application:
 <br>
-<br>
 ➤ python house_price_predictor.py
+<br>
 <br>
 <br>
 ❖ Expected Program Flow:
