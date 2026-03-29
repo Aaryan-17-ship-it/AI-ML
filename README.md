@@ -26,12 +26,12 @@ This application predicts property values based on square footage and the number
 <br>
 ❖ Technologies/Tools Used:
 <br>
+<br>
 ◈ Programming Language
 <br>
 Python 3.x Used to implement the logic, handle user inputs, and manage data structures.
 <br>
-<br>
-2. Libraries
+◈ Libraries
 <br>
 Pandas: Used for data manipulation and creating the DataFrame.
 <br>
@@ -39,10 +39,10 @@ Matplotlib: Used for rendering the visual trend graphs.
 <br>
 Scikit-Learn: Used to implement the LinearRegression model for AI-based price estimation.
 <br>
-<br>
-4. Runtime Environment
+◈ Runtime Environment
 <br>
 Python Interpreter Executes the .py file and displays both the terminal interface and the graphical output.
+<br>
 <br>
 <br>
 ❖ Steps to Install & Run the Project:
