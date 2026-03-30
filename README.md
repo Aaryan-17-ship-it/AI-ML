@@ -94,7 +94,8 @@ This application predicts property values based on square footage and the number
 <br>
 <br>
 <br>
-❖ Screenshots:
+❖ Screenshots:\
+<br>
 <img width="814" height="881" alt="image" src="https://github.com/user-attachments/assets/bcad2456-3308-4bca-bac2-8c3f947d28a6" />
 <br>
 <img width="1918" height="318" alt="image" src="https://github.com/user-attachments/assets/7480b4df-8c59-405a-8757-138412ff674d" />
